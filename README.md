@@ -6,7 +6,7 @@ MaskTool: Generate mask image based on opencv 基于opencv绘制多边形，进�
 1. 左键单击：增加一个多边形点；
 2. 右键单击：减少最近的一个点；
 3. 左键双击：在mask上绘制当前的多边形；
-4. v，V：选择模型，True为增加前景，False为增加背景；
+4. v，V：选择模式，True为增加前景，False为增加背景；
 5. s，S：保存绘制的mask；
 6. q，Q，esc：退出程序。
 
